@@ -1,4 +1,4 @@
-![banner](https://nlproimage.s3.amazonaws.com/powerbi1630280386)
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/microsoft_powerbi_logo_icon_169958.png" alt="power_bi" width="700" height=250/>
 
 # Sobre o repositório 📑
 
